@@ -1,0 +1,5 @@
+GetMD5HashData
+GetSHA1HashData
+ValidateMD5HashData
+ValidateSHA1HashData
+MD5Hash

@@ -1,0 +1,9 @@
+ExecuteNonQuery
+ExecuteNonQueryAsync
+ExecuteReader
+ExecuteReaderAsync
+ExecuteScalar
+ExecuteScalarAsync
+ExecuteXmlReader
+ExecuteXmlReaderAsync
+executequery
